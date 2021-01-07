@@ -1,11 +1,14 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:physics.* OR cat:cs.*'
 
 # 検索キーワード
 keywords:
         kaggle: 3
         resnet: 3
         anomaly detection: 1
+        shogi: 3
+        reinforcement learning: 1
+        image sensor: 2
 
 # 通知の閾値
 score_threshold: 0
