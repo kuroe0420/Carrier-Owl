@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:physics.* OR cat:cs.*'
+subject: 'cat:ccss.* OR cat:cs.*'
 
 # 検索キーワード
 keywords:
@@ -8,7 +8,9 @@ keywords:
         anomaly detection: 1
         shogi: 3
         reinforcement learning: 1
-        image sensor: 2
+        image sensor: 1
+        cutting force estimation: 2
+        GAN: 1
 
 # 通知の閾値
 score_threshold: 0
